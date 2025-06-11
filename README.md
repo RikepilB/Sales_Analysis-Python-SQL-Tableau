@@ -6,8 +6,8 @@ Superstore is close to a real-world fake dataset with 10,000 records of sales in
 
 <h3 align="left">Languages and Tools Used</h3>
 <p>Python
-<br>SQL - Pandasql
-<br>Tableau
+<br>SQL - Postgresql
+<br>Power BI
 <br>Excel</p>
 
 <h3 align="left"> Highlights of Sales Analysis </h3>
